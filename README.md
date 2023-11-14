@@ -6,7 +6,7 @@ this project is based on developing an online quiz platform where the users can 
 ## Team members
 1. Deva Nanda Nair https://github.com/devananda6200
 2. Irine Paul https://github.com/irinepaul8I
-3. Aswathy Gopinath https://github.com/aswathygopinath
+3. Aswathy Gopinath 
 ## Team Id
 Binary-fetch 
 ## Link to product walkthrough
