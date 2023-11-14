@@ -4,9 +4,9 @@ webza quiz platform
 Long Description about project. This project do that. This project is awesome...
 this project is based on developing an online quiz platform where the users can attend quizzes on various categories that they can select. They'd be awarded rewards for the number of right answers from a category 
 ## Team members
-1. Deva Nanda Nair
-2. Irine Paul
-3. Aswathy Gopinath
+1. Deva Nanda Nair https://github.com/devananda6200
+2. Irine Paul https://github.com/irinepaul8I
+3. Aswathy Gopinath https://github.com/aswathygopinath
 ## Team Id
 Binary-fetch 
 ## Link to product walkthrough
@@ -18,8 +18,7 @@ Binary-fetch
 node.js
 npm install
 react deploy
-firebase console
 ## How to configure
 Instructions for setting up project
 ## How to Run
-Instructions for running
+using react app
