@@ -22,3 +22,4 @@ react deploy
 Instructions for setting up project
 ## How to Run
 using react app
+https://github.com/devananda6200/Online-Quiz.git - to check app.js , quiz.css and quiz.js
